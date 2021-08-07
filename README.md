@@ -9,12 +9,9 @@
 - [ ] Calculadora
 - [ ] Formulário
 
-### 💻 Tecnologias
----
-- [React](https://pt-br.reactjs.org/)
+## 💻 Tecnologias
+ - [React](https://pt-br.reactjs.org/)
 
-### 👨‍💻 Autor
----
+## 👨‍💻 Autor
  <img src="https://avatars.githubusercontent.com/u/82395681?v=4" width="100px;" alt=""/>
- <br />
-Feito por Arthur Lopes 👋🏽 Entre em contato!
+  Feito por Arthur Lopes 👋🏽 Entre em contato!
