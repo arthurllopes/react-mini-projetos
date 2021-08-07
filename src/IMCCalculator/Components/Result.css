@@ -1,0 +1,24 @@
+.underweight{
+    border: 4px solid blue;
+}
+.normal{
+    border: 4px solid green;
+}
+.overweight{
+    border: 4px solid orange;
+}
+.obese{    
+    border: 4px solid red;
+}
+.obese span {
+    color: red;
+}
+.overweight span {
+    color: orange;
+}
+.normal span {
+    color: green;
+}
+.underweight span {
+    color: blue;
+}

@@ -1,0 +1,21 @@
+.form {
+    background-color: #eee;
+    border-radius: 4px;
+    text-align: center;
+    padding: 8px;
+    max-width: 500px;
+    font-size: '1.2rem';
+    margin: 0 auto;
+    border: 1px solid;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-bottom: 8px;
+}
+
+button{
+    margin: 8px 10px;
+    padding: 4px;
+    height: 38px;
+    grid-column: 1/3;
+
+}
