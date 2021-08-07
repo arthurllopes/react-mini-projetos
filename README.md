@@ -17,5 +17,5 @@
   Feito por Arthur Lopes 👋🏽 Entre em contato!
   </br>
   <a href="mailto:arthurllopes10@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-arthurllopes10@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthurllopes10@gmail.com" /></a>
+  <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:arthurllopes10@gmail.com" /></a>
   
