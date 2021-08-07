@@ -15,7 +15,7 @@
 ### 👨‍💻 Autor
  <img src="https://avatars.githubusercontent.com/u/82395681?v=4" width="100px;" alt=""/>
   Feito por Arthur Lopes 👋🏽 Entre em contato!
-  
+  </br>
   <a href="mailto:arthurllopes10@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-arthurllopes10@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthurllopes10@gmail.com" /></a>
   
