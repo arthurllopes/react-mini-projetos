@@ -9,7 +9,6 @@
 - [x] Questionário
   -Uma pergunta parece de cada vez;
   -Ao final, mostra o resultado de quantas questões corretas. 
-- [ ] Formulário
 
 ## 💻 Tecnologias
  - [React](https://pt-br.reactjs.org/)
