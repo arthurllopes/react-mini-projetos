@@ -4,9 +4,11 @@
 
 ### 📂 Projetos
 - [x] Calculadora de IMC
-  - Mostra o resultado do IMC, qual deveria ser o peso ideal naquela altura, quantos kilos teria que perder e o estado da pessoa (abaixo do peso, normal, acima do peso e obesa).
+  - Mostra o resultado do IMC, qual deveria ser o peso ideal naquela altura, quantos kilos teria que perder e o estado da pessoa (abaixo do peso, normal, acima do peso e obesa);
   - Cores do resultado variam de acordo com o estado da pessoa.
-- [ ] Calculadora
+- [ ] Questionário
+  -Uma pergunta parece de cada vez;
+  -Ao final, mostra o resultado de quantas questões corretas. 
 - [ ] Formulário
 
 ### 💻 Tecnologias
